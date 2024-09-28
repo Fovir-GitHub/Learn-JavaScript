@@ -11,6 +11,7 @@ if (b)
 else
     console.log("b is false");
 
+// attention the following:
 const a = new Boolean(false);
 if (a)
     console.log("a is true");
